@@ -1,2 +1,5 @@
 .vscode
+.venv
 INSTRUCTIONS.md
+.env
+*__pycache__
